@@ -13,3 +13,4 @@ Today's Progress:
 - [x] Drafted a basic outline for daily routine
 - [x] Finished organized 540+ Pocket bookmarks
 - [x] Created a "geek log" repo on Github
+- [x] Configured Sublime Text 3 editor.
