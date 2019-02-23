@@ -14,3 +14,17 @@ Today's Progress:
 - [x] Finished organized 540+ Pocket bookmarks
 - [x] Created a "geek log" repo on Github
 - [x] Configured Sublime Text 3 editor.
+
+**February 22nd, 2019 —**
+
+Today's Progress: 
+
+- [x] Configured Freeter's "Productivity" dashboard.
+- [x] Read Android articles on Pocket
+- [x] Watched YouTube videos
+
+**February 23rd, 2019 —**
+
+Today's Progress: 
+
+- [x] Configured Free
