@@ -27,4 +27,12 @@ Today's Progress:
 
 Today's Progress: 
 
-- [x] Configured Free
+- [x] Drafted a list of skills I want to learn
+- [x] Reviewed a list of Udemy courses I want to take.
+- [x] Read Android articles on Pocket
+
+**February 24th, 2019 —**
+
+Today's Progress: 
+
+- [x] Drafted
