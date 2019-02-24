@@ -35,4 +35,11 @@ Today's Progress:
 
 Today's Progress: 
 
-- [x] Drafted
+- [x] Created a Front-End Development Curriculum
+- [x] Re-Pinned Social Media Snippets folder
+- [x] Created a 'Web Design' folder
+- [x] Added Monday full body fitness routine
+- [x] Created a work flow process and apps outline
+- [x] Added Moleskine "life philosophy"-esque questionnare to Dynalist outline.
+
+
