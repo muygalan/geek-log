@@ -42,4 +42,16 @@ Today's Progress:
 - [x] Created a work flow process and apps outline
 - [x] Added Moleskine "life philosophy"-esque questionnare to Dynalist outline.
 
+**February 25th, 2019 —**
+
+Today's Progress: 
+
+- [x] Installed and configured plugins for WOX.
+- [x] Read Pocket articles
+- [x] [This Command Prompt Trick Searches Way Faster Than Windows Explorer](https://www.howtogeek.com/fyi/this-command-prompt-trick-searches-way-faster-than-windows-explorer/)
+- [x] [How to change the appearance of Command Prompt on Windows 10](https://www.windowscentral.com/how-change-appearance-command-prompt-windows-10)
+- [x] Windows Keyboard Shortcut: ALT + D (gives you access to your file explorer address bar.)
+- [x] hhh
+
+
 
