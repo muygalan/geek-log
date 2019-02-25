@@ -56,7 +56,7 @@ Today's Progress:
 - [x] [How to launch Bash shell from right-click context menu on Windows 10](https://www.windowscentral.com/how-launch-bash-shell-right-click-context-menu-windows-10)
 - [x] Access bash quickly from the Windows 10 address bar: type 'bash'
 - [x] [Icon Archive](http://www.iconarchive.com/) –  plethora of icons.
-- [x] Acces
+- [x] Added and committed the following categories to Code repo: CSS, JavaScript, Git & Github, Jekyll, and Wordpress.
 - [x] Acces
 - [x] Acces
 - [x] Acces
