@@ -55,7 +55,11 @@ Today's Progress:
 - [x] Installed Jekyll on Windows 10
 - [x] [How to launch Bash shell from right-click context menu on Windows 10](https://www.windowscentral.com/how-launch-bash-shell-right-click-context-menu-windows-10)
 - [x] Access bash quickly from the Windows 10 address bar: type 'bash'
-- [x] Installed
+- [x] [Icon Archive](http://www.iconarchive.com/) –  plethora of icons.
+- [x] Acces
+- [x] Acces
+- [x] Acces
+- [x] Acces
 
 
 
