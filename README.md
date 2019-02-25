@@ -51,7 +51,11 @@ Today's Progress:
 - [x] [This Command Prompt Trick Searches Way Faster Than Windows Explorer](https://www.howtogeek.com/fyi/this-command-prompt-trick-searches-way-faster-than-windows-explorer/)
 - [x] [How to change the appearance of Command Prompt on Windows 10](https://www.windowscentral.com/how-change-appearance-command-prompt-windows-10)
 - [x] Windows Keyboard Shortcut: ALT + D (gives you access to your file explorer address bar.)
-- [x] hhh
+- [x] Installed Linux Bash Shell on Windows 10
+- [x] Installed Jekyll on Windows 10
+- [x] [How to launch Bash shell from right-click context menu on Windows 10](https://www.windowscentral.com/how-launch-bash-shell-right-click-context-menu-windows-10)
+- [x] Access bash quickly from the Windows 10 address bar: type 'bash'
+- [x] Installed
 
 
 
