@@ -57,9 +57,17 @@ Today's Progress:
 - [x] Access bash quickly from the Windows 10 address bar: type 'bash'
 - [x] [Icon Archive](http://www.iconarchive.com/) –  plethora of icons.
 - [x] Added and committed the following categories to Code repo: CSS, JavaScript, Git & Github, Jekyll, and Wordpress.
-- [x] Acces
-- [x] Acces
-- [x] Acces
 
+**February 26th, 2019 —**
 
+Today's Progress: 
+
+- [x] Designed a YouTube IG Stories template.
+- [x] Reviewed some Android screenshots
+- [x] Watched some YouTube Videos
+- [x] Started "The Complete 2019 Web Development Bootcamp" Udemy course.
+- [x] [Dev Docs](https://devdocs.io/)
+- [x] [Mozilla Docs](https://developer.mozilla.org/en-US/)
+- [x] Desi
+- [x] Desi
 
