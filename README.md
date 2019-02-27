@@ -68,6 +68,18 @@ Today's Progress:
 - [x] Started "The Complete 2019 Web Development Bootcamp" Udemy course.
 - [x] [Dev Docs](https://devdocs.io/)
 - [x] [Mozilla Docs](https://developer.mozilla.org/en-US/)
-- [x] Desi
-- [x] Desi
+- [x] Instlled Directory Opus
+
+**February 27th, 2019 —**
+
+Today's Progress: 
+
+- [x] Watched YouTube Videos
+- [x] Added Buff Dudes Wednesday workout to phone.
+- [x] Installed [Cluster - Window & Tab Manager](https://chrome.google.com/webstore/detail/cluster-window-tab-manage/aadahadfdmiibmdhfmpbeeebejmjnkef/related?hl=en) extension for Chrome
+- [x] [7 Instagram Story Frame Templates (FREE)](https://www.youtube.com/watch?v=GDZf7xS5rd4)
+- [x] Designed
+- [x] Designed
+- [x] Designed
+- [x] Designed
 
