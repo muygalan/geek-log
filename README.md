@@ -78,8 +78,8 @@ Today's Progress:
 - [x] Added Buff Dudes Wednesday workout to phone.
 - [x] Installed [Cluster - Window & Tab Manager](https://chrome.google.com/webstore/detail/cluster-window-tab-manage/aadahadfdmiibmdhfmpbeeebejmjnkef/related?hl=en) extension for Chrome
 - [x] [7 Instagram Story Frame Templates (FREE)](https://www.youtube.com/watch?v=GDZf7xS5rd4)
-- [x] Designed
-- [x] Designed
-- [x] Designed
+- [x] Android: Used Kine Master to add .png overlays on stop of video!
+- [x] Android: Use File Manager + to allow PC to access files on remote FTP server.
+- [x] Modified custom Chibi Stickers for IG Stories
 - [x] Designed
 
