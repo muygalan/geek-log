@@ -81,5 +81,5 @@ Today's Progress:
 - [x] Android: Used Kine Master to add .png overlays on stop of video!
 - [x] Android: Use File Manager + to allow PC to access files on remote FTP server.
 - [x] Modified custom Chibi Stickers for IG Stories
-- [x] Designed
+- [x] Reviewed Android screenshots (100+)
 
