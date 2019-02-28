@@ -83,3 +83,16 @@ Today's Progress:
 - [x] Modified custom Chibi Stickers for IG Stories
 - [x] Reviewed Android screenshots (100+)
 
+**February 28th, 2019 —**
+
+Today's Progress: 
+
+- [x] Read some Pocket articles
+- [x] Read s
+- [x] Read s
+- [x] Read s
+- [x] Read s
+- [x] Read s
+- [x] Read s
+- [x] Read s
+- [x] Read s
