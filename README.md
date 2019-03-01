@@ -96,9 +96,9 @@ Today's Progress:
 
 Today's Progress: 
 
-- [x] Read some Pocket articles
-- [x] Continued "The Complete 2019 Web Development Bootcamp" Udemy course.
-- [x] Read s
+- [x] Discovered [Github Dev- Your website, closer to your code](https://github.dev/)
+- [x] "The Complete 2019 Web Development Bootcamp" Udemy course. >> Completed HTML Segments
+- [x] Added HTML & CSS notes to Code repo (local.)
 - [x] Read s
 - [x] Read s
 - [x] Read s
