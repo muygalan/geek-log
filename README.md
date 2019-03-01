@@ -89,6 +89,15 @@ Today's Progress:
 
 - [x] Read some Pocket articles
 - [x] Continued "The Complete 2019 Web Development Bootcamp" Udemy course.
+- [x] Added HTML notes to Code repo (local)
+
+
+**March 1st, 2019 —**
+
+Today's Progress: 
+
+- [x] Read some Pocket articles
+- [x] Continued "The Complete 2019 Web Development Bootcamp" Udemy course.
 - [x] Read s
 - [x] Read s
 - [x] Read s
