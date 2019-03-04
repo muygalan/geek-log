@@ -99,9 +99,14 @@ Today's Progress:
 - [x] Discovered [Github Dev- Your website, closer to your code](https://github.dev/)
 - [x] "The Complete 2019 Web Development Bootcamp" Udemy course. >> Completed HTML Segments
 - [x] Added HTML & CSS notes to Code repo (local.)
-- [x] Read s
-- [x] Read s
-- [x] Read s
-- [x] Read s
-- [x] Read s
-- [x] Read s
+
+**March 2nd, 2019 —**
+
+Today's Progress: 
+
+- [x] Created a "Web Design" labs folder locally.
+- [x] Updated Tinder profile. 😅
+- [x] Started TeamTreehouse's "Introduction to HTML and CSS" course.
+- [x] 
+- [x] 
+- [x] 
