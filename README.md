@@ -118,4 +118,5 @@ Today's Progress:
 - [x] Watched YouTube Videos.
 - [x] TeamTreehouse: Completed Introduction to HTML and CSS!
 - [x] TeamTreehouse: Started HTML Basics
-- [x] 
+- [x] Added HTML & CSS notes to Code repo.
+
