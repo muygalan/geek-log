@@ -100,7 +100,7 @@ Today's Progress:
 - [x] "The Complete 2019 Web Development Bootcamp" Udemy course. >> Completed HTML Segments
 - [x] Added HTML & CSS notes to Code repo (local.)
 
-**March 2nd, 2019 —**
+**March 4th, 2019 —**
 
 Today's Progress: 
 
@@ -109,4 +109,13 @@ Today's Progress:
 - [x] Started TeamTreehouse's "Introduction to HTML and CSS" course.
 - [x] 
 - [x] 
+- [x] 
+
+**March 5th, 2019 —**
+
+Today's Progress: 
+
+- [x] Watched YouTube Videos.
+- [x] TeamTreehouse: Completed Introduction to HTML and CSS!
+- [x] TeamTreehouse: Started HTML Basics
 - [x] 
