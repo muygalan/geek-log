@@ -127,7 +127,7 @@ Today's Progress:
 - [x] Installed [Snippet Store](https://github.com/ZeroX-DG/SnippetStore) and added an HTML5 template.
 - [x] Cleaned Gmail Inbox
 - [x] Started Coursera's [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) course.
-- [x] 
-- [x] 
+- [x] Completed Week 1 of Learning How to Learn.
+- [x] Continued TeamTreehouse "HTML Basics" course.
 - [x] 
 
