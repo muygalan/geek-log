@@ -107,9 +107,6 @@ Today's Progress:
 - [x] Created a "Web Design" labs folder locally.
 - [x] Updated Tinder profile. 😅
 - [x] Started TeamTreehouse's "Introduction to HTML and CSS" course.
-- [x] 
-- [x] 
-- [x] 
 
 **March 5th, 2019 —**
 
@@ -136,7 +133,7 @@ Today's Progress:
 
 Today's Progress: 
 
-- [x] TeamTreehouse:
+- [x] TeamTreehouse: Completed HTML Basics!
 - [x] HTML Entities are special codes HTML uses to represent special characters symbols like the less than and greater than reserved characters. (aka escape codes.)
 - [x] [Character Entity Reference Chart](https://dev.w3.org/html5/html-author/charref)
 - [x] Shortcut: Add a comment tag in HTML. `CTRL + /`
