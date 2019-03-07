@@ -136,9 +136,9 @@ Today's Progress:
 
 Today's Progress: 
 
-- [x] 
-- [x] 
-- [x] 
+- [x] TeamTreehouse:
+- [x] HTML Entities are special codes HTML uses to represent special characters symbols like the less than and greater than reserved characters. (aka escape codes.)
+- [x] [Character Entity Reference Chart](https://dev.w3.org/html5/html-author/charref)
 - [x] 
 - [x] 
 - [x] 
