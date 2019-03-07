@@ -138,5 +138,5 @@ Today's Progress:
 - [x] [Character Entity Reference Chart](https://dev.w3.org/html5/html-author/charref)
 - [x] Shortcut: Add a comment tag in HTML. `CTRL + /`
 - [x] Select blocks of code and use `CTRL +/` to comment out code (and reverse).
-- [x] 
+- [x] Added more CSS notes to Code repo (local)
 
