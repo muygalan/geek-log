@@ -129,5 +129,17 @@ Today's Progress:
 - [x] Started Coursera's [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) course.
 - [x] Completed Week 1 of Learning How to Learn.
 - [x] Continued TeamTreehouse "HTML Basics" course.
+- [x] Purchased Fish Oil and Vitamin D3
+- [x] Read Pocket articles.
+
+**March 7th, 2019 —**
+
+Today's Progress: 
+
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
 - [x] 
 
