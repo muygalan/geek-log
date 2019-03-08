@@ -140,3 +140,15 @@ Today's Progress:
 - [x] Select blocks of code and use `CTRL +/` to comment out code (and reverse).
 - [x] Added more CSS notes to Code repo (local)
 
+**March 8th, 2019 —**
+
+Today's Progress: 
+
+- [x] Added new BUFF Dudes gym routine to Android.
+- [x] Renewed my "The Great Courses" subscription to 10/mo plan!
+- [x] Completed Week 2 of Coursera's "Learning How to Learn."
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+
