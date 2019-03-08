@@ -147,8 +147,14 @@ Today's Progress:
 - [x] Added new BUFF Dudes gym routine to Android.
 - [x] Renewed my "The Great Courses" subscription to 10/mo plan!
 - [x] Completed Week 2 of Coursera's "Learning How to Learn."
-- [x] 
-- [x] 
-- [x] 
-- [x] 
+- [x] You can add `@import` to your internal HTML file to link additional CSS stylesheets.
+```
+<style>
+      @import "css/import-styles.css";
+</style>
+```
+
+Suggestion: add this to your external stylesheets.
+- [x] TeamTreehouse: Completed first module of CSS Basics.
+
 
