@@ -157,4 +157,15 @@ Today's Progress:
 Suggestion: add this to your external stylesheets.
 - [x] TeamTreehouse: Completed first module of CSS Basics.
 
+**March 11th, 2019 —**
 
+Today's Progress: 
+
+- [x] Installed [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh/related?hl=en-US) extension.
+- [x] Completed Introduction to CSS from "The Complete 2019 Web Development Bootcamp" Udemy course.
+- [x] Watched YouTube videos
+- [x] How to add a favicon to your HTML file
+`<link rel="icon" href="favicon.ico">`
+- [x] 
+- [x] 
+- [x] 
