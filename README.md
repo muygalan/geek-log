@@ -166,6 +166,6 @@ Today's Progress:
 - [x] Watched YouTube videos
 - [x] How to add a favicon to your HTML file
 `<link rel="icon" href="favicon.ico">`
-- [x] 
+- [x] Continued onto Week 3 of Coursera's "Learning How to Learn."
 - [x] 
 - [x] 
