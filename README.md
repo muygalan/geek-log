@@ -167,5 +167,11 @@ Today's Progress:
 - [x] How to add a favicon to your HTML file
 `<link rel="icon" href="favicon.ico">`
 - [x] Continued onto Week 3 of Coursera's "Learning How to Learn."
-- [x] 
-- [x] 
+
+**March 12th, 2019 —**
+
+Today's Progress: 
+
+- [x] Continued Intermediate CSS from "The Complete 2019 Web Development Bootcamp" Udemy course.
+- [x] [Learn CSS #6: Positioning Elements | Absolute vs Relative](https://www.youtube.com/watch?v=TiY5FuwgocI)
+- [x] `text-align: center` centers everything that doesn't have a width set. If it does have a `width:` set, use `auto`.
