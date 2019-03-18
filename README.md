@@ -175,3 +175,16 @@ Today's Progress:
 - [x] Continued Intermediate CSS from "The Complete 2019 Web Development Bootcamp" Udemy course.
 - [x] [Learn CSS #6: Positioning Elements | Absolute vs Relative](https://www.youtube.com/watch?v=TiY5FuwgocI)
 - [x] `text-align: center` centers everything that doesn't have a width set. If it does have a `width:` set, use `auto`.
+
+**March 18th, 2019 —**
+
+Today's Progress: 
+
+- [x] Added entries to digital Moleskine.
+- [x] In order to obtain desired `em` size, divide the pixel value by the body element's font value.
+      Example: 26/16 = 1.625
+- [x] Installed [ColorPicker](https://packagecontrol.io/packages/ColorPicker)
+- [x] Installed [Color Highlight](https://packagecontrol.io/packages/Color%20Highlight)
+- [x] Continued TeamTreehouse "CSS Basics."
+- [x] Added new BUFF Dudes Routine to Progression app.
+- [x] 
