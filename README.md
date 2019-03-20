@@ -188,3 +188,14 @@ Today's Progress:
 - [x] Continued TeamTreehouse "CSS Basics."
 - [x] Added new BUFF Dudes Routine to Progression app.
 - [x] 
+
+**March 20th, 2019 —**
+
+Today's Progress: 
+
+- [x] Added entries to digital Moleskine.
+- [x] Continued TeamTreehouse "CSS Basics".
+- [x] `overflow: auto;` prevents contents from overflowing in a div element with a fixed height.
+- [x] Added a new BUFF Dudes Routine to Progression app.
+- [x] 
+- [x] 
