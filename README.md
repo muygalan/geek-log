@@ -197,5 +197,14 @@ Today's Progress:
 - [x] Continued TeamTreehouse "CSS Basics".
 - [x] `overflow: auto;` prevents contents from overflowing in a div element with a fixed height.
 - [x] Added a new BUFF Dudes Routine to Progression app.
+
+**March 22nd, 2019 —**
+
+Today's Progress: 
+
+- [x] Installed [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja/related?hl=en) Chrome extension.
+- [x] Read GetPocket articles.
+- [x] Continued TeamTreehouse "CSS Basics".
+- [x] Added a new BUFF Dudes Routine to Progression app.
 - [x] 
 - [x] 
