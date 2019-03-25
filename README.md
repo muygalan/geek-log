@@ -206,5 +206,14 @@ Today's Progress:
 - [x] Read GetPocket articles.
 - [x] Continued TeamTreehouse "CSS Basics".
 - [x] Added a new BUFF Dudes Routine to Progression app.
-- [x] 
-- [x] 
+
+**March 25th, 2019 —**
+
+Today's Progress: 
+
+- [x] Watched YouTube videos
+- [x] Downloaded [Anki](https://apps.ankiweb.net/) (flashcard software)
+- [x] Installed [CSS Unminifier](https://packagecontrol.io/packages/CSS%20Unminifier) for Sublime Text 3.
+- [x] Read and coded from Jeremy Thomas' "CSS in 44 Minutes" ebook.
+- [x] [What is Anti-Aliasing?](https://www.gamingscan.com/what-is-anti-aliasing/)
+- [x] Continued "CSS Basics" on Team Treehouse.
