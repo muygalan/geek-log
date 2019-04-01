@@ -217,3 +217,12 @@ Today's Progress:
 - [x] Read and coded from Jeremy Thomas' "CSS in 44 Minutes" ebook.
 - [x] [What is Anti-Aliasing?](https://www.gamingscan.com/what-is-anti-aliasing/)
 - [x] Continued "CSS Basics" on Team Treehouse.
+
+**April 1st, 2019 —**
+
+Today's Progress: 
+
+- [x] Read some GetPocket articles.
+- [x] Began working on my blog; fiddling with a Medium-esque theme.
+- [x] Continued Intermediate CSS from "The Complete 2019 Web Development Bootcamp" Udemy course.
+- [x] 
