@@ -238,7 +238,7 @@ Today's Progress:
 Today's Progress: 
 
 - [x] Read some GetPocket articles.
-- [x] 
+- [x] Continued "Learn Git by Doing" Udemy course.
 - [x] 
 - [x] 
 - [x] 
