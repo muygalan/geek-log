@@ -226,3 +226,21 @@ Today's Progress:
 - [x] Began working on my blog; fiddling with a Medium-esque theme.
 - [x] Continued Intermediate CSS from "The Complete 2019 Web Development Bootcamp" Udemy course.
 - [x] 
+
+**April 4th, 2019 —**
+
+Today's Progress: 
+
+- [x] Purchased and started the Udemy course: "Learn Git by Doing [...]"
+
+**April 5th, 2019 —**
+
+Today's Progress: 
+
+- [x] Read some GetPocket articles.
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+
