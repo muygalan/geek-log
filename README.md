@@ -239,8 +239,15 @@ Today's Progress:
 
 - [x] Read some GetPocket articles.
 - [x] Continued "Learn Git by Doing" Udemy course.
-- [x] 
-- [x] 
+- [x] Setup Samsung Dex for the first time.
+
+**April 6th, 2019 —**
+
+Today's Progress: 
+
+- [x] Read some GetPocket articles.
+- [x] Completed "Learn Git by Doing" Udemy course!
+- [x] Watched YouTube videos
 - [x] 
 - [x] 
 
