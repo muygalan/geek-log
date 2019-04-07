@@ -248,6 +248,13 @@ Today's Progress:
 - [x] Read some GetPocket articles.
 - [x] Completed "Learn Git by Doing" Udemy course!
 - [x] Watched YouTube videos
-- [x] 
-- [x] 
 
+**April 7th, 2019 —**
+
+Today's Progress: 
+
+- [x] Read some GetPocket articles.
+- [x] test
+- [x] Watched YouTube videos
+- [x] 
+- [x] 
