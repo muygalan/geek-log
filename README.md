@@ -254,7 +254,15 @@ Today's Progress:
 Today's Progress: 
 
 - [x] Read some GetPocket articles.
-- [x] test
 - [x] Watched YouTube videos
+- [x] Worked on Personal Blog
 - [x] 
+
+**April 10th, 2019 —**
+
+Today's Progress: 
+
+- [x] Read some GetPocket articles.
+- [x] Watched YouTube videos
+- [x] Worked on Personal Blog
 - [x] 
