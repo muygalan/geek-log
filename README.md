@@ -265,4 +265,4 @@ Today's Progress:
 - [x] Read some GetPocket articles.
 - [x] Watched YouTube videos
 - [x] Worked on Personal Blog
-- [x] 
+- [x] Continued "CSS Basics" on Team Treehouse.
