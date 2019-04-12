@@ -266,3 +266,9 @@ Today's Progress:
 - [x] Watched YouTube videos
 - [x] Worked on Personal Blog
 - [x] Continued "CSS Basics" on Team Treehouse.
+
+**April 11th, 2019 —**
+
+Today's Progress: 
+
+- [x] Completed "CSS Basics" on TeamTreehouse!
