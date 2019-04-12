@@ -279,6 +279,6 @@ Today's Progress:
 
 - [x] Read some GetPocket articles
 - [x] Discovered [Story Saver for Instagram](https://play.google.com/store/apps/details?id=io.yoba.storysaverforinsta&hl=en_US)
-- [x] 
+- [x] Studied about [Semantic HTML](https://internetingishard.com/html-and-css/semantic-html/).
 - [x] 
 - [x] 
