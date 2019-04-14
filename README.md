@@ -280,5 +280,13 @@ Today's Progress:
 - [x] Read some GetPocket articles
 - [x] Discovered [Story Saver for Instagram](https://play.google.com/store/apps/details?id=io.yoba.storysaverforinsta&hl=en_US)
 - [x] Studied about [Semantic HTML](https://internetingishard.com/html-and-css/semantic-html/).
+
+**April 13th, 2019 —**
+
+Today's Progress: 
+
+- [x] [DECS - The All-In-One Workspace To Manage Code Snippets and Protect Sensitive Data.](https://app.decs.xyz/)
+- [x] 
+- [x] 
 - [x] 
 - [x] 
